@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955095323922",
+    "project_id": "phone-auth-test-df0a8",
+    "storage_bucket": "phone-auth-test-df0a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955095323922:android:9867c6213645bd3d064fcb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_phone_auth_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955095323922-8qugk74fp4k1875711alunvls5io7f8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUN1r0VxaXYRc51med94vQfJxbGDHFWoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955095323922-8qugk74fp4k1875711alunvls5io7f8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
